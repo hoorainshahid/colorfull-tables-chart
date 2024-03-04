@@ -1,0 +1,63 @@
+.perple{
+    background-color: purple;
+}
+.blue{
+    background-color: skyblue;
+}
+.yellow{
+    background-color: yellowgreen;
+}
+.per{
+    background-color: palevioletred;
+}
+.yellow2{
+    background-color: darkgoldenrod;
+}
+.darkblue{
+    background-color: blue;
+}
+.skyblue{
+    background-color: aquamarine;
+}
+.green{
+    background-color: rgb(30, 163, 30);
+}
+.red1{
+    background-color: aqua;
+}
+.red{
+    background-color: brown;
+}
+.lightyellow{
+    background-color: rgb(164, 206, 79);
+}
+.aqaua{
+    background-color: aqua;
+}
+.perple2{
+    background-color: rgb(141, 39, 141);
+}
+
+h1 {
+    background-color: rgb(141, 76, 97);
+    text-align: center;
+    box-shadow: 2px 2px 5px 10px grey;
+    text-decoration: double;
+    text-transform: uppercase;
+    font-style: italic;
+
+}
+table{
+    height: 80%;
+    border: 5px solid black;
+    border-spacing: 0;
+    text-align: center;
+}
+body{
+    background-color:  #DCC7AA;
+    font-size: 20px;
+}
+td:hover{
+background-color: aqua;
+
+}
